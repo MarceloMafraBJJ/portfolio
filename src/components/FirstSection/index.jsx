@@ -8,7 +8,7 @@ export default function FirstSection() {
     <section className={styles.container}>
       <ul>
         <li className={styles.firstLi}>
-          <h2>I'm</h2>
+          <h2>{"I'm"}</h2>
           <h1>Marcelo Mafra</h1>
           <div className={styles.line} />
           <h3>
@@ -28,9 +28,9 @@ export default function FirstSection() {
         <li className={styles.thirdLi}>
           <h3>About me</h3>
           <h2>
-            I'm sixteen years old, I'm a jiu-jitsu athlete and a software
-            developer. I love technology and I can help you with your digital
-            business.
+            {"I'm"} sixteen years old, {"I'm"} a jiu-jitsu athlete and a
+            software developer. I love technology and I can help you with your
+            digital business.
           </h2>
         </li>
       </ul>

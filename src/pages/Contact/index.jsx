@@ -19,7 +19,7 @@ export default function Contact() {
         <Header />
 
         <h1 className={styles.title}>get in touch</h1>
-        <h2>Let's start a project together</h2>
+        <h2>{"Let's start a project together"}</h2>
 
         <ul className={styles.list}>
           <li>
